@@ -126,9 +126,3 @@ Example:
 
 **Gowthami**
 GitHub: https://github.com/Gowthami97568
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
